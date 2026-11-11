@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div{
+    text-decoration: underline;
+    font-weight: bold;
+    color: green;
+    font-family: "Monotype Corsiva", cursive;
+}
+
+.photo{
+    width: 300px;
+    height: 200px;
+}
